@@ -1,4 +1,4 @@
-# Customer-Churn
+# Customer Churn Manager
 ## CS2500 - Data Science and Engineering Challenge | Semester Project
 <br>
 Tools: Python, Jupyter Notebook, Power BI, PHP, HTML, CSS, Bootstrap
